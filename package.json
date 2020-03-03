@@ -1,0 +1,20 @@
+{
+  "name": "btcpay-directory-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerlop/btcpay-directory-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerlop/btcpay-directory-backend/issues"
+  },
+  "homepage": "https://github.com/joerlop/btcpay-directory-backend#readme"
+}
