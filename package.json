@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/joerlop/btcpay-directory-backend/issues"
   },
-  "homepage": "https://github.com/joerlop/btcpay-directory-backend#readme"
+  "homepage": "https://github.com/joerlop/btcpay-directory-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "knex": "^0.20.10",
+    "nodemon": "^2.0.2",
+    "sqlite3": "^4.1.1"
+  }
 }
